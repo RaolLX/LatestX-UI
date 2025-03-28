@@ -36,8 +36,8 @@ export const siteConfig = {
 
   // Background configuration - just change the type and value to update the background
   background: {
-    type: "default", // "default", "gradient", "image", "pattern"
-    value: "", // URL for image, gradient string, or pattern name
+    type: "image", // "default", "gradient", "image", "pattern"
+    value: "https://raw.githubusercontent.com/latesturl/dbCDN/refs/heads/main/my-DB/backgroundV3.webp", // URL for image, gradient string, or pattern name
     // Add responsive options
     responsive: {
       mobile: true, // Enable mobile-specific optimizations
